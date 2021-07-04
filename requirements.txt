@@ -3,3 +3,4 @@ scikit-learn==0.22.1
 matplotlib
 python-dotenv
 azureml-sdk
+azure-cli
